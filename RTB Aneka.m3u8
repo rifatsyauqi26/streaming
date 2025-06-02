@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
